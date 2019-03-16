@@ -1,6 +1,6 @@
-package event;
+package no.techpros.axiseventsource.demo.event;
 
-import domain.Status;
+import no.techpros.axiseventsource.demo.domain.Status;
 
 public class AccountActivatedEvent extends BaseEvent<String> {
 

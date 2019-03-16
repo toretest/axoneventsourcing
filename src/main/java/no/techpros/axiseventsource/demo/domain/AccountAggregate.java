@@ -1,9 +1,9 @@
-package domain;
+package no.techpros.axiseventsource.demo.domain;
 
-import command.CreateAccountCommand;
-import command.CreditMoneyCommand;
-import command.DebitMoneyCommand;
-import event.*;
+import no.techpros.axiseventsource.demo.command.CreateAccountCommand;
+import no.techpros.axiseventsource.demo.command.CreditMoneyCommand;
+import no.techpros.axiseventsource.demo.command.DebitMoneyCommand;
+import no.techpros.axiseventsource.demo.event.*;
 import org.axonframework.commandhandling.CommandHandler;
 import org.axonframework.commandhandling.model.AggregateIdentifier;
 import org.axonframework.commandhandling.model.AggregateLifecycle;

@@ -1,4 +1,5 @@
-package command;
+package no.techpros.axiseventsource.demo.command;
+
 
 public class DebitMoneyCommand extends BaseCommand<String> {
 

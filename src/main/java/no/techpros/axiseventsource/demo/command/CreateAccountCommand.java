@@ -1,4 +1,6 @@
-package command;
+package no.techpros.axiseventsource.demo.command;
+
+import no.techpros.axiseventsource.demo.command.BaseCommand;
 
 public class CreateAccountCommand extends BaseCommand<String> {
 

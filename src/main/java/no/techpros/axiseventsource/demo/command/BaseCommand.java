@@ -1,4 +1,4 @@
-package command;
+package no.techpros.axiseventsource.demo.command;
 
 import org.axonframework.commandhandling.TargetAggregateIdentifier;
 

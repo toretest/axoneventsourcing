@@ -1,4 +1,4 @@
-package command;
+package no.techpros.axiseventsource.demo.command;
 
 public class CreditMoneyCommand extends BaseCommand<String> {
     public final double creditAmount;

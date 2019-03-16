@@ -1,4 +1,4 @@
-package event;
+package no.techpros.axiseventsource.demo.event;
 
 public class BaseEvent <T> {
 
